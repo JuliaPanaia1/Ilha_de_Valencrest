@@ -6,6 +6,9 @@ Desenvolvido por **Brenda, Guilherme e Julia**, alunos da **Fatec (Faculdade de 
 
 ## Acompanhe o Projeto
 
-Siga-nos no Instagram para atualizações e novidades: [@rps.duel](https://www.instagram.com/rps.duel/)
+Siga-nos no Instagram para atualizações e novidades: 
+
+<a href="https://www.instagram.com/rps.duel/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</a>
 
 <img src="RPS%20DUEL%20LOGO.png" alt="Logo do RPS Duel" width="300"/>
