@@ -7,3 +7,5 @@ Desenvolvido por **Brenda, Guilherme e Julia**, alunos da **Fatec (Faculdade de 
 ## Acompanhe o Projeto
 
 Siga-nos no Instagram para atualizações e novidades: [@rps.duel](https://www.instagram.com/rps.duel/)
+
+<img src="logo%20jogo%20faculdade%20(2).png" alt="Logo do RPS Duel" width="500"/>
