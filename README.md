@@ -1,6 +1,5 @@
-# RPS_DUEL 🪨📄✂️
-
-🎮 RPS Duel é um site de jogos online dedicado ao clássico "Pedra, Papel e Tesoura", trazendo uma nova e emocionante experiência para jogadores de todo o mundo. Desafie amigos, participe de torneios e mostre suas habilidades estratégicas neste jogo atemporal.
+# CONQUISTA DE VALENCREST
+🎮 “Conquiste a ilha de Valencrest” é um jogo de tabuleiro online que se enquadra no gênero de estratégia e aventura, onde os jogadores competem para conquistar o território e expandir suas influências em uma ilha virtual.
 
 Desenvolvido por **Brenda, Guilherme e Julia**, alunos da **Fatec (Faculdade de Tecnologia do Estado de São Paulo)**, atualmente no 5º ciclo do curso de **Análise e Desenvolvimento de Sistemas (ADS)**. Projeto realizado sob a mentoria do Professor **Rodrigo Lopes Salgado**.
 
