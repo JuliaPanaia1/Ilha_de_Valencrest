@@ -1,5 +1,5 @@
 # CONQUISTA DE VALENCREST
-🎮 “Conquiste a ilha de Valencrest” é um jogo de tabuleiro online que se enquadra no gênero de estratégia e aventura, onde os jogadores competem para conquistar o território e expandir suas influências em uma ilha virtual.
+🎮 Conquista da ilha é um jogo de tabuleiro digital inspirado em clássicos como Gamão e Tetris, onde dois jogadores disputam para tomar o território do oponente. Neste jogo, dois jogadores possuem seu território e suas tropas, e seu objetivo é movimentar todas as suas tropas para a base inimiga antes que seu oponente o faça primeiro, além disso, os jogadores possuem cartas de "táticas de guerra" que eles podem utilizar para ativar diversos efeitos que podem mudar o rumo da batalha!
 
 Desenvolvido por **Brenda, Guilherme e Julia**, alunos da **Fatec (Faculdade de Tecnologia do Estado de São Paulo)**, atualmente no 5º ciclo do curso de **Análise e Desenvolvimento de Sistemas (ADS)**. Projeto realizado sob a mentoria do Professor **Rodrigo Lopes Salgado**.
 
